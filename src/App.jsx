@@ -1,11 +1,11 @@
-import Todolist from './TodoList.jsx';
-import './App.css';
+import TabApp from './components/TabApp.jsx';
+
 
 function App() {
   
   return (
-    <div className="App">
-      <Todolist />
+    <div>
+      <TabApp />
     </div>
   )
 
